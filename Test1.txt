@@ -1,3 +1,4 @@
 This is Test 1 file.
 Have changed the code in the branch
 Added another row.
+Added row as part of User story AR-2 
